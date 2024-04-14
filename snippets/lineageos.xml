@@ -315,5 +315,4 @@
   <project name="LineageOS/mirror" path="lineage/mirror" revision="b7288d1084f39cb687fbcba380bbb619c2e9ae05" upstream="main" dest-branch="main" groups="infra"/>
   <project name="LineageOS/scripts" path="lineage/scripts" revision="50d5f8aa379e6552f871f59b042683faf08d60e8" upstream="main" dest-branch="main" groups="tools"/>
   <project name="LineageOS/www" path="lineage/website" revision="85d13f20576936f840a097298558f898054106a1" upstream="main" dest-branch="main" groups="infra"/>
-  <project name="Luk1337/ih8sn" path="external/ih8sn" remote="private" revision="5d2b981d71461a9874bb87021fb05419b2f7d209" upstream="master" dest-branch="master" groups="local::additions"/>
 </manifest>
